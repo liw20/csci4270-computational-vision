@@ -1,0 +1,2 @@
+Image Pair,Keypoints (Img1),Keypoints (Img2),Matches,Match Ratio (Img1),Match Ratio (Img2),Fundamental Inliers,Inlier Ratio,New Inliers,New Inlier Ratio,Final Decision
+image1.JPG - image2.JPG,668,863,152,0.2275449101796407,0.1761297798377752,147,0.9671052631578947,132,0.8979591836734694,Accepted

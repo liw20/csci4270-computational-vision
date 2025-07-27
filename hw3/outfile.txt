@@ -1,0 +1,22 @@
+Keypoint counts using SIFT
+image1.JPG: 668
+image2.JPG: 863
+
+Matches between image1.JPG and image2.JPG: 152
+Fraction of keypoints matched: 0.2275, 0.1761
+Image of Keypoint Comparison: 
+Passed threshold of matching keypoints
+Amount of matching keypoints meets threshold
+
+Inlier count between image1.JPG and image2.JPG: 147
+Ratio of inliers to initial match: 0.9671052631578947
+Image consistent with Fundamental Matrix: 
+Passed threshold for inliers:
+Contains enough inliers to be considered as matching images
+
+New inlier count using homography between image1.JPG and image2.JPG: 142
+Ratio of new inliers to fundamental matrix inliers: 0.9659863945578231
+Image of new inliers consistent with Fundamental and Homography matrix: 
+Passed threshold for new inliers calculations:
+Ratio and amount of new inliers computed by homography matrix is above threshold
+Image of overlapping scenes: 
